@@ -1,5 +1,9 @@
 # Documentation
 
+0. Prerequisites :
+
+- [Android Studio Flamingo](https://redirector.gvt1.com/edgedl/android/studio/install/2022.2.1.20/android-studio-2022.2.1.20-windows.exe) | 2022.2.1 Patch 2 (see Help > About)
+
 1. Setup [Amazon Correto 11](https://corretto.aws/downloads/latest/amazon-corretto-11-x64-windows-jdk.msi)
 
 2. Create a new project, as this image :
